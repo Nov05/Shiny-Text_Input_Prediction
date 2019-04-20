@@ -13,5 +13,5 @@ library(shiny); runGitHub( "Shiny-Text_Input_Prediction", "Nov05")
 
 <br><br>
 For more information:   
-Shiny - https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/
+Shiny - https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/  
 ShinySky - https://github.com/AnalytixWare/ShinySky
