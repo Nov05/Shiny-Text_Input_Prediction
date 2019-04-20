@@ -42,7 +42,7 @@ server <- function(input, output, session){
   # typeahead
   observe({
     input$typeahead01
-    showshinyalert(session, "shinyalert01", sprintf("Typeahead Text Input Value: %s", input$typeahead01), "error")
+    showshinyalert(session, "shinyalert01", sprintf("You just inputted: %s", input$typeahead01), "error")
   })
 }
 
